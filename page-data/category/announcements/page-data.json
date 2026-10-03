@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-category-tsx",
+    "path": "/category/announcements",
+    "result": {"data":{"allDiscussionsJson":{"nodes":[{"node":{"title":"第1次 rCore 学习小组分享会 4.8","number":4}},{"node":{"title":"rCore学习小组4.8第1次分享会视频回放","number":3}},{"node":{"title":"Welcome to os-labs-in-rust-course Discussions!","number":2}}]}},"pageContext":{"category":{"name":"Announcements","emoji":":mega:","description":"Updates from maintainers","isAnswerable":false},"name":"Announcements","nlen":1}},
+    "staticQueryHashes": ["151096407","2861350382"]}
