@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-issues-tsx",
+    "path": "/issues/3",
+    "result": {"data":{"issuesJson":{"id":"417d9dc4-783b-57fa-b47e-a21ac7d034a4","title":"rCore学习小组4.8第1次分享会视频回放","number":3,"bodyHTML":"<p dir=\"auto\">rCore学习小组4.8第1次分享会视频回放<br>\n<a href=\"http://record-1257797626.cos.ap-beijing.myqcloud.com/os2edu/100385103/1649428413111.mp4\" rel=\"nofollow\">http://record-1257797626.cos.ap-beijing.myqcloud.com/os2edu/100385103/1649428413111.mp4</a></p>","updatedAt":"2022-07-24T04:57:33Z","upvoteCount":1,"author":{"login":"limingth","avatarUrl":"https://avatars.githubusercontent.com/u/1249369?v=4","url":"https://github.com/limingth"},"category":{"isAnswerable":false,"name":"Announcements","emoji":":mega:"},"labels":{"edges":[]},"comments":{"edges":[]}}},"pageContext":{"number":3,"previous":null,"next":{"title":"Welcome to os-labs-in-rust-course Discussions!","number":2}}},
+    "staticQueryHashes": ["151096407","2861350382"]}
