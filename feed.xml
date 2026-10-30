@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?><rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+<channel>
+  <title>RSS</title>
+  <atom:link href="/feed.xml" rel="self" type="application/rss+xml" />
+  <link>/</link>
+  <description>GitHub Discussions</description>
+  <item>
+  <title><![CDATA[第1次 rCore 学习小组分享会 4.8]]></title>
+  <link>https://github.com/os2edu/discussions/discussions/4</link>
+  <guid isPermaLink="false">https://github.com/os2edu/discussions/discussions/4</guid>
+  <pubDate>2022-07-24</pubDate>
+  <description><![CDATA[<h2 dir="auto">4.8 晚8点 rCore 学习小组分享会</h2>
+<h3 dir="auto">时间：4.8 晚8点</h3>
+<h3 dir="auto">内容简介与分享人：</h3>
+<ul dir="auto">
+<li>
+<p dir="auto">1.rCore 的boot（程序执行环境和BootLoader）</p>
+<ul dir="auto">
+<li>陆终，任务网络</li>
+</ul>
+</li>
+<li>
+<p dir="auto">2.rCore 内存管理机制（RAII在 rCore 中的应用）</p>
+<ul dir="auto">
+<li>张洋，本科大三</li>
+</ul>
+</li>
+<li>
+<p dir="auto">3.车载操作系统简介(QNX 简介，Linux简介)</p>
+<ul dir="auto">
+<li>张毅峰，基础软件</li>
+</ul>
+</li>
+</ul>
+<p dir="auto">讲座报名链接：<a href="https://rust.os2edu.cn/pages/course/103" rel="nofollow">https://rust.os2edu.cn/pages/course/103</a></p>
+<p dir="auto">温馨提示：输入手机号登录，无需下载安装app，报名后直接在电脑上用 Chrome 浏览器进入教室听课。</p>]]></description>
+</item>
+<item>
+  <title><![CDATA[rCore学习小组4.8第1次分享会视频回放]]></title>
+  <link>https://github.com/os2edu/discussions/discussions/3</link>
+  <guid isPermaLink="false">https://github.com/os2edu/discussions/discussions/3</guid>
+  <pubDate>2022-07-24</pubDate>
+  <description><![CDATA[<p dir="auto">rCore学习小组4.8第1次分享会视频回放<br>
+<a href="http://record-1257797626.cos.ap-beijing.myqcloud.com/os2edu/100385103/1649428413111.mp4" rel="nofollow">http://record-1257797626.cos.ap-beijing.myqcloud.com/os2edu/100385103/1649428413111.mp4</a></p>]]></description>
+</item>
+<item>
+  <title><![CDATA[Welcome to os-labs-in-rust-course Discussions!]]></title>
+  <link>https://github.com/os2edu/discussions/discussions/2</link>
+  <guid isPermaLink="false">https://github.com/os2edu/discussions/discussions/2</guid>
+  <pubDate>2022-04-10</pubDate>
+  <description><![CDATA[
+<h2 dir="auto">👋 Welcome!</h2>
+<p dir="auto">We’re using Discussions as a place to connect with other members of our community. We hope that you:</p>
+<ul dir="auto">
+<li>Ask questions you’re wondering about.</li>
+<li>Share ideas.</li>
+<li>Engage with other community members.</li>
+<li>Welcome others and are open-minded. Remember that this is a community we<br>
+build together 💪.</li>
+</ul>
+<p dir="auto">To get started, comment below with an introduction of yourself and tell us about what you do with this community.</p>
+]]></description>
+</item>
+
+</channel>
+</rss>
